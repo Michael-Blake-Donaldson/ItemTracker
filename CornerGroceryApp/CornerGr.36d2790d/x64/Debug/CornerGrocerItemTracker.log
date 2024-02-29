@@ -1,0 +1,5 @@
+﻿  Menu.cpp
+C:\Users\blake\source\repos\CornerGroceryApp\Menu.cpp(51,29): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  MenuHistogramOption.cpp
+  Generating Code...
+  CornerGrocerItemTracker.vcxproj -> C:\Users\blake\source\repos\CornerGroceryApp\x64\Debug\CornerGrocerItemTracker.exe
